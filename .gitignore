@@ -43,3 +43,6 @@ HELP.md
 !gradle/обертка/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+.idea
+.gradle
+build
